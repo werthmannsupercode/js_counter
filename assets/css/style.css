@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 20vh 40vw;
+    text-align: center;
+}
+
+div {
+    background-image: linear-gradient(to top right, darkblue, magenta);
+    padding: 5vh 45px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 5vh;
+}
+
+p {
+    font-size: 50px;
+    margin-bottom: 3vh;
+}
+
+button,
+input {
+    width: 90px;
+    height: 30px;
+    margin-bottom: 1vh;
+}
